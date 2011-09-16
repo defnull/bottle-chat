@@ -1,0 +1,13 @@
+#chat * {
+    font-family: sans-serif;
+}
+
+#chat .window {
+    padding: 0 0 1px 0;
+}
+
+#chat .timestamp {
+    border: 1px solid grey;
+    border-width: 0 0 1px 0;
+    text-align: right;
+}
